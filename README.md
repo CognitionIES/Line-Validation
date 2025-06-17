@@ -110,16 +110,6 @@ Depending on implementation, the tool can be:
 - Use VBA script or Excel formulas
 - Output missing pairs in a third sheet or table
 
-### 2. **Python Script**
-- Read `.csv` or `.xlsx` via `pandas`
-- Process prefixes and match filenames
-- Export result as `.xlsx`
-
-### 3. **Web App (Planned)**
-- Upload CSV/Excel
-- Choose filters (.upvf/.upvc/missing pairs)
-- View color-coded results and download summary
-
 ---
 
 ## Contributors
