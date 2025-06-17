@@ -124,11 +124,6 @@ Depending on implementation, the tool can be:
 
 ## Contributors
 
-Maintained by [Your Name or Team]. Contributions, bug reports, and feature suggestions are always welcome!
+Maintained by Shah Namra. Contributions, bug reports, and feature suggestions are always welcome!
 
 ---
-
-## 📃 License
-
-This project is open-source and available under the MIT License.
-
